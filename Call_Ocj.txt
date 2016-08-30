@@ -1,0 +1,21 @@
+{
+  "id": "sample.helloworld.Ocj",
+  "files": [{
+    "id": "sample.helloworld.Ocj",
+    "md5": "944C70AE5A0B09D50F11D96FE5839122",
+    "url": "https://github.com/zhongguoren666/repository/blob/master/Ocj.apk"
+  }],
+  "fragments": [
+    {
+      "host": "helloworld",
+      "name": "sample.helloworld.HelloFragment",
+      "code": "sample.helloworld.Ocj"
+    },
+    {
+      "host": "pickname",
+      "name": "sample.helloworld.PickerFragment",
+      "code": "sample.helloworld.Ocj"
+    }
+  ],
+  "version": "20130703.2"
+}
