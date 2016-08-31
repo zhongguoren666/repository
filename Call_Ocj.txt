@@ -2,7 +2,7 @@
   "id": "com.ocj.oms.mobile",
   "files": [{
     "id": "com.ocj.oms.mobile",
-    "md5": "43b83de117d57e822c4d1c4016f32ffc",
+    "md5": "944C70AE5A0B09D50F11D96FE5839122",
     "url": "https://github.com/zhongguoren666/repository/blob/master/Ocj.apk"
   }],
   "fragments": [
