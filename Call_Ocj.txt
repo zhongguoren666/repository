@@ -1,20 +1,20 @@
 {
-  "id": "sample.helloworld.Ocj",
+  "id": "com.ocj.oms.mobile",
   "files": [{
-    "id": "sample.helloworld.Ocj",
+    "id": "com.ocj.oms.mobile",
     "md5": "43b83de117d57e822c4d1c4016f32ffc",
     "url": "https://github.com/zhongguoren666/repository/blob/master/Ocj.apk"
   }],
   "fragments": [
     {
       "host": "helloworld",
-      "name": "sample.helloworld.HelloFragment",
-      "code": "sample.helloworld.Ocj"
+      "name": "com.ocj.oms.mobileFragment",
+      "code": "com.ocj.oms.mobile"
     },
     {
       "host": "pickname",
       "name": "sample.helloworld.PickerFragment",
-      "code": "sample.helloworld.Ocj"
+      "code": "com.ocj.oms.mobile"
     }
   ],
   "version": "20130703.2"
