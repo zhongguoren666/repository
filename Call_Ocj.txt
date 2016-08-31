@@ -2,7 +2,7 @@
   "id": "sample.helloworld.Ocj",
   "files": [{
     "id": "sample.helloworld.Ocj",
-    "md5": "b25ebbd0eb4d2718bec25d5f4428cef9",
+    "md5": "43b83de117d57e822c4d1c4016f32ffc",
     "url": "https://github.com/zhongguoren666/repository/blob/master/Ocj.apk"
   }],
   "fragments": [
